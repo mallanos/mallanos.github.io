@@ -23,6 +23,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-D4KB31TQQS" # Replace this with your ID, or delete
+    anonymize_ip         : true
+
 author:
   name   : "Manuel A. Llanos, Ph.D."
   avatar : "/assets/images/bio-photo.jpg"

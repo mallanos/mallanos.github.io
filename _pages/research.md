@@ -28,7 +28,7 @@ CAMPP is one of nine NIH-funded Antiviral Drug Discovery (AViDD) Centers for Pat
 
 REFRACT is a European H2020 international research consortium focused on the structural and functional characterization of tandem repeat proteins. I completed a six-month research exchange at the Laboratoire de Bioinformatique Structurale et Modélisation Moléculaire (BiSMM), CNRS, Montpellier, France, under the supervision of Dr. Andrey Kajava, contributing computational structural analyses of repeat protein conformations and amyloid fibril structure.
 
-**Related publications:** [[20]](/publications/#pub-20)
+**Related publications:** [[1]](/publications/#pub-1)
 
 ---
 
@@ -37,7 +37,7 @@ REFRACT is a European H2020 international research consortium focused on the str
 
 This multicentric project, coordinated by the Japanese pharmaceutical company Eisai and funded by the GHIT Fund, aimed to validate *Trypanosoma cruzi* phosphodiesterases (PDEs) as drug targets for Chagas disease and identify selective inhibitors using a computationally enhanced screening cascade. Chagas disease affects approximately 7 million people in the Americas and remains severely undertreated. I provided *in silico* modeling support during the hit identification phase, combining ligand- and structure-based techniques.
 
-**Related publications:** [[10]](/publications/#pub-10)
+**Related publications:** [[11]](/publications/#pub-11)
 
 ---
 
@@ -47,7 +47,7 @@ Coordinator: Dr. Marcelo Comini, Institut Pasteur Montevideo, Uruguay*
 
 DaMPro-CoV-2 was a multicentric, multidisciplinary international drug discovery project aimed at identifying and characterizing inhibitors of the SARS-CoV-2 cysteine-dependent viral proteases, particularly the Main Protease (Mpro). The consortium brought together over 30 research groups across Latin America and Europe. I provided ligand- and structure-based computational modeling support during the hit identification stage.
 
-**Related publications:** [[11]](/publications/#pub-11), [[19]](/publications/#pub-19), [[23]](/publications/#pub-23)
+**Related publications:** [[5]](/publications/#pub-5), [[6]](/publications/#pub-6), [[14]](/publications/#pub-23)
 
 ---
 
@@ -56,7 +56,7 @@ DaMPro-CoV-2 was a multicentric, multidisciplinary international drug discovery 
 
 This project investigated the human voltage-gated proton channel (Hv1) as a pharmacological target in mammary carcinogenesis. I performed computational studies to identify and characterize an intracellular ATP-binding site that activates the channel.
 
-**Related publications:** [[8]](/publications/#pub-8)
+**Related publications:** [[12]](/publications/#pub-12)
 
 ---
 
@@ -65,7 +65,7 @@ This project investigated the human voltage-gated proton channel (Hv1) as a phar
 
 This research line applied computational drug repurposing strategies to identify therapeutic candidates for infectious neglected tropical diseases (NTDs) with limited or no pharmacological treatment options. My work encompassed structure- and ligand-based drug discovery applied across multiple parasitic targets, including *T. cruzi* carbonic anhydrase (TcCA) and *T. cruzi* polyamine transporter (TcPAT12).
 
-**Related publications:** [[1]](/publications/#pub-1), [[9]](/publications/#pub-9), [[10]](/publications/#pub-10), [[22]](/publications/#pub-22)
+**Related publications:** [[3]](/publications/#pub-3), [[10]](/publications/#pub-10), [[18]](/publications/#pub-18)
 
 ---
 
@@ -74,4 +74,4 @@ This research line applied computational drug repurposing strategies to identify
 
 This project, which formed the basis of my doctoral thesis, sought to discover more efficacious and better-tolerated drugs for the treatment of refractory epilepsy — a condition in which approximately 30% of patients fail to achieve seizure control with available pharmacotherapies. I applied ligand- and structure-based techniques to identify hits acting on TRPV1 and Na<sub>V</sub> ion channels.
 
-**Related publications:** [[7]](/publications/#pub-7), [[8]](/publications/#pub-8), [[9]](/publications/#pub-9), [[13]](/publications/#pub-13), [[16]](/publications/#pub-16), [[17]](/publications/#pub-17), [[18]](/publications/#pub-18), [[22]](/publications/#pub-22)
+**Related publications:** [[4]](/publications/#pub-4), [[9]](/publications/#pub-9), [[13]](/publications/#pub-13), [[15]](/publications/#pub-15), [[16]](/publications/#pub-16)
