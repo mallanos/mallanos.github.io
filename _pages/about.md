@@ -11,7 +11,7 @@ I received my Ph.D. in Biological Sciences from the National University of La Pl
 
 ---
 
-## Education
+## 🎓 Education
 
 **Ph.D. in Biological Sciences** | 2017 – 2022\
 National University of La Plata (UNLP), La Plata, Buenos Aires, Argentina\
@@ -29,7 +29,7 @@ National University of La Plata (UNLP), La Plata, Buenos Aires, Argentina
 
 ---
 
-## Awards & Distinctions
+## 🏅 Awards & Distinctions
 
 **Dr. Enrique Herrero Ducloux Award** | 2023\
 Argentine Chemical Society — Best doctoral thesis in inorganic, physical, theoretical, and analytical chemistry
