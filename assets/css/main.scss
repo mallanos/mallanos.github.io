@@ -1,0 +1,24 @@
+---
+# Only the main.scss file needs front matter (Jekyll requirement)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Publications page — smaller text */
+.publications-page .page__content {
+  font-size: 0.8em;
+  line-height: 1.6;
+}
+/* Research page — smaller text */
+.research-page .page__content {
+  font-size: 0.8em;
+  line-height: 1.6;
+}
+/* About page — smaller text */
+.about-page .page__content {
+  font-size: 0.8em;
+  line-height: 1.6;
+}
