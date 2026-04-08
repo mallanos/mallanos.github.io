@@ -27,3 +27,8 @@
   font-size: 0.8em;
   line-height: 1.6;
 }
+/* Larger circular avatar */
+.author__avatar img {
+  max-width: 150px;
+  border-radius: 50%;
+}

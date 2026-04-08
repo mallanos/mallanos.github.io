@@ -15,11 +15,22 @@ My research lies at the intersection of computational chemistry, structural biol
 
 ## Funded Research Projects
 
+
+
 ### Center for Antiviral Medicines and Pandemic Preparedness (CAMPP)
 *2023 – Present | Funder: NIAID-NIH AViDD Center | Role: Computational Scientist*\
 [https://www.campp.org](https://www.campp.org)
 
 CAMPP is one of nine NIH-funded Antiviral Drug Discovery (AViDD) Centers for Pathogens of Pandemic Concern, with a mission to develop broad-spectrum antiviral drugs against coronaviruses and other viruses with pandemic potential. As part of Core E — Structural Biology and Computational Modeling, I provided computational modeling support during the hit identification and lead optimization phases, applying structure-based techniques to prioritize candidates for experimental testing.
+
+---
+
+### Computer-Aided Drug Discovery National Resource — AutoDock Suite
+*2023 – present | Funder: NIGMS-NIH | Role: Computational Scientist | PI: Dr. Stefano Forli, The Scripps Research Institute* \| [Scripps News](https://www.scripps.edu/news-and-events/press-room/2022/20221102-forli-nigms.html)
+
+This $5.2M, five-year NIH/NIGMS-funded initiative supports the maintenance and modernization of the AutoDock Suite software — the most widely used molecular docking platform globally. The project will help establish a national resource that makes advanced computational docking methods accessible to a wide community of researchers, while adapting the suite to evolving hardware platforms and operating systems, incorporating the latest algorithmic developments, and supporting its large user community. As a member of the Forli lab, I contribute to software development and validation across multiple components of the suite.
+
+**Related publications:** [[17]](/publications/#pub-17), [[20]](/publications/#pub-20), [[21]](/publications/#pub-21), [[23]](/publications/#pub-23)
 
 ---
 

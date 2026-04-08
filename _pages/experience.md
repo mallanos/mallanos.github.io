@@ -6,13 +6,13 @@ classes: experience-page
 ---
 
 ### Staff Scientist | Sep 2025 – Present
-The Forli Lab | Department of Integrative Structural and Computational Biology\
+[The Forli Lab](https://forlilab.org) | Department of Integrative Structural and Computational Biology\
 The Scripps Research Institute, La Jolla, CA
 
 ---
 
 ### Postdoctoral Research Associate | Jun 2023 – Sep 2025
-The Forli Lab | Department of Integrative Structural and Computational Biology\
+[The Forli Lab](https://forlilab.org) | Department of Integrative Structural and Computational Biology\
 The Scripps Research Institute, La Jolla, CA
 
 ---
