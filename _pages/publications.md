@@ -8,7 +8,7 @@ classes: wide publications-page
 **[23]** I. Taneja, **M. A. Llanos**, M. L. Fernández-Quintero, J. R. Loeffler, M. Holcomb, A. B. Ward, S. Forli. "AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold." *Journal of Chemical Information and Modeling.* 2026, 66, 152–166. [https://doi.org/10.1021/acs.jcim.5c02004](https://doi.org/10.1021/acs.jcim.5c02004)
 
 <a id="pub-22"></a>
-**[22]** W. Li\*, Q. Wei\*, P. Governa\*, **M. A. Llanos**\*, T.-Y. Chiu, J. M. Wozniak, A. M. Jadhav, C. Gathmann, M. Holcomb, J. Cravatt, A. Dongre, M. L. Huang, S. Forli, C. G. Parker. "Post-Translational Modifications Remodel Proteome-Wide Ligandability." *Nature Chemical Biology.* 2025. [https://doi.org/10.1101/2025.07.31.667978](https://doi.org/10.1101/2025.07.31.667978) *(bioRxiv preprint)* *\* Equal contribution*
+**[22]** Weichao Li†; Qijia Wei†; **M. A. Llanos**; Clara Gathmann; Paolo Governa; Tzu-Yuan Chiu; Jacob M. Wozniak; Appaso M. Jadhav; Matthew Holcomb; Jacob Cravatt; Ashok Dongre; Mia L. Huang; Stefano Forli; Christopher G. Parker. "Post-Translational Modifications Remodel Proteome-Wide Ligandability." Nature Chemical Biology. 2026 (bioRxiv preprint: https://doi.org/10.1101/2025.07.31.667978). † contributed equally.
 
 <a id="pub-21"></a>
 **[21]** D. Santos-Martins, Y. He, J. Eberhardt, P. Sharma, N. Bruciaferri, M. Holcomb, **M. A. Llanos**, et al., S. Forli. "Meeko: Molecule Parametrization and Software Interoperability for Docking and Beyond." *Journal of Chemical Information and Modeling.* 2025, 65, 13045–13050. [https://doi.org/10.1021/acs.jcim.5c02271](https://doi.org/10.1021/acs.jcim.5c02271)
