@@ -4,10 +4,9 @@ title: "About"
 classes: about-page
 
 ---
+I am a Staff Scientist in the Department of Integrative Structural and Computational Biology at [The Scripps Research Institute](https://www.scripps.edu), La Jolla, CA, where I work in the [Forli Lab](https://forlilab.org). My research sits at the intersection of computational chemistry and drug discovery — I develop and apply methods in molecular docking, structure and ligand-based virtual screening, molecular dynamics simulations, and active learning to identify and optimize small-molecule therapeutics across a range of disease targets.
 
-I am a Staff Scientist in the Department of Integrative Structural and Computational Biology at [The Scripps Research Institute](https://www.scripps.edu), La Jolla, CA, where I am a member of the [Forli Lab](https://forlilab.org). My research focuses on computational drug discovery, structure-based drug design, and the development of open-source scientific software for molecular modeling.
-
-I received my Ph.D. in Biological Sciences from the National University of La Plata (Argentina), where my doctoral work focused on the discovery of novel antiepileptic agents acting on ion channels. My research integrates ligand- and structure-based computational techniques to address unmet therapeutic needs across diverse disease areas, including epilepsy, infectious and neglected tropical diseases, and cancer.
+I received my Ph.D. in Biological Sciences from the National University of La Plata, Argentina, where my doctoral work focused on the discovery of novel antiepileptic agents acting on ion channels, combining ligand- and structure-based computational approaches with experimental electrophysiological validation. My background also includes a Pharmacy degree, which broadened how I think about the drug discovery process beyond modeling and simulation.
 
 ---
 
