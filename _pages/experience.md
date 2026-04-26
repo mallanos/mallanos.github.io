@@ -36,6 +36,7 @@ Taught the following courses for the Pharmacy degree:
 ## Peer Review & Editorial Activity
 
 I've been invited to review articles for:\
- *Nature Communications* · *Journal of Physical Chemistry* · *Journal of Chemical Information and Modeling* · *Journal of Medicinal Chemistry* · *Journal of Computational Chemistry* · *Chemical Diversity* · *Frontiers in Pharmacology* · *Frontiers in Drug Discovery*
+ *Nature Communications* · *Nature Computational Science* · *Journal of Physical Chemistry* ·  *Journal of Medicinal Chemistry* · *Journal of Chemical Information and Modeling* · *Journal of Computational Chemistry* · *Chemical Diversity* · *Frontiers in Pharmacology* · *Frontiers in Drug Discovery*\
+ [Publons - Web of Science](https://www.webofscience.com/wos/author/record/PSK-9450-2026)
 
 ---
