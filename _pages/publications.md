@@ -4,11 +4,17 @@ title: "Publications"
 classes: wide publications-page
 ---
 
+<a id="pub-25"></a>
+**[25]** N. Bruciaferri, D. Santos-Martins, M. Holcomb, **M. A. Llanos**, S. Forli. "MCSwell: Thermodynamic Characterization of Binding Site Hydration." *ChemRxiv (preprint).* 2026. [https://doi.org/10.26434/chemrxiv.15006567/v1](https://doi.org/10.26434/chemrxiv.15006567/v1)
+
+<a id="pub-24"></a>
+**[24]** J. Mato, D. Santos-Martins, **M. A. Llanos**, S. Forli. "MolScrub: an Open-Source Tool to Generate Conformers and Protonate Drug-Like Molecules." *ChemRxiv (preprint).* 2026. [https://doi.org/10.26434/chemrxiv.15007659/v1](https://doi.org/10.26434/chemrxiv.15007659/v1)
+
 <a id="pub-23"></a>
 **[23]** I. Taneja, **M. A. Llanos**, M. L. Fernández-Quintero, J. R. Loeffler, M. Holcomb, A. B. Ward, S. Forli. "AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold." *Journal of Chemical Information and Modeling.* 2026, 66, 152–166. [https://doi.org/10.1021/acs.jcim.5c02004](https://doi.org/10.1021/acs.jcim.5c02004)
 
 <a id="pub-22"></a>
-**[22]** Weichao Li†; Qijia Wei†; **M. A. Llanos**; Clara Gathmann; Paolo Governa; Tzu-Yuan Chiu; Jacob M. Wozniak; Appaso M. Jadhav; Matthew Holcomb; Jacob Cravatt; Ashok Dongre; Mia L. Huang; Stefano Forli; Christopher G. Parker. "Post-Translational Modifications Remodel Proteome-Wide Ligandability." Nature Chemical Biology. 2026 (bioRxiv preprint: https://doi.org/10.1101/2025.07.31.667978). † contributed equally.
+**[22]** Weichao Li†; Qijia Wei†; **M. A. Llanos**; Clara Gathmann; Paolo Governa; Tzu-Yuan Chiu; Jacob M. Wozniak; Appaso M. Jadhav; Matthew Holcomb; Jacob Cravatt; Ashok Dongre; Mia L. Huang; Stefano Forli; Christopher G. Parker. "Posttranslational Modifications Remodel Proteome-Wide Ligandability." *Nature Chemical Biology.* 2026. [https://doi.org/10.1038/s41589-026-02216-y](https://doi.org/10.1038/s41589-026-02216-y). † contributed equally.
 
 <a id="pub-21"></a>
 **[21]** D. Santos-Martins, Y. He, J. Eberhardt, P. Sharma, N. Bruciaferri, M. Holcomb, **M. A. Llanos**, et al., S. Forli. "Meeko: Molecule Parametrization and Software Interoperability for Docking and Beyond." *Journal of Chemical Information and Modeling.* 2025, 65, 13045–13050. [https://doi.org/10.1021/acs.jcim.5c02271](https://doi.org/10.1021/acs.jcim.5c02271)
