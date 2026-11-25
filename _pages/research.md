@@ -58,7 +58,7 @@ Coordinator: Dr. Marcelo Comini, Institut Pasteur Montevideo, Uruguay*
 
 DaMPro-CoV-2 was a multicentric, multidisciplinary international drug discovery project aimed at identifying and characterizing inhibitors of the SARS-CoV-2 cysteine-dependent viral proteases, particularly the Main Protease (Mpro). The consortium brought together over 30 research groups across Latin America and Europe. I provided ligand- and structure-based computational modeling support during the hit identification stage.
 
-**Related publications:** [[5]](/publications/#pub-5), [[6]](/publications/#pub-6), [[14]](/publications/#pub-23)
+**Related publications:** [[5]](/publications/#pub-5), [[6]](/publications/#pub-6), [[14]](/publications/#pub-14)
 
 ---
 
