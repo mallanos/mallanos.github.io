@@ -4,11 +4,14 @@ title: "Publications"
 classes: wide publications-page
 ---
 
+<a id="pub-26"></a>
+**[26]** R. Y. Sattler, S. Babarinde, A. Montoya, N. Jackson, A. J. Loutan, D. Santos-Martins, **M. A. Llanos**, B. Yang, A. K. Gupta, M. Holcomb, P. Governa, K. L. Marquardt, R. Aiolfi, R. Escobedo, Y. Goez-Gazi, J. Dutton, R. Eklund, A. Busse, B. Cubitt, R. Zhou, H. Witwit, J. R. Teijaro, M. Götte, R. Carrion Jr, L. O. Mosnier, S. Forli, I. A. Wilson, L. Martinez-Sobrido, A. K. Chatterjee, S. K. Chanda, J. C. de la Torre. "Structure-Guided Development of a Viral Endonuclease Inhibitor that Potently Restricts Human Pathogenic Mammarenavirus Infection *In Vivo*." *npj Viruses.* 2026. [https://doi.org/10.1038/s44298-026-00238-w](https://doi.org/10.1038/s44298-026-00238-w)
+
 <a id="pub-25"></a>
 **[25]** N. Bruciaferri, D. Santos-Martins, M. Holcomb, **M. A. Llanos**, S. Forli. "MCSwell: Thermodynamic Characterization of Binding Site Hydration." *ChemRxiv (preprint).* 2026. [https://doi.org/10.26434/chemrxiv.15006567/v1](https://doi.org/10.26434/chemrxiv.15006567/v1)
 
 <a id="pub-24"></a>
-**[24]** J. Mato, D. Santos-Martins, **M. A. Llanos**, S. Forli. "MolScrub: an Open-Source Tool to Generate Conformers and Protonate Drug-Like Molecules." *ChemRxiv (preprint).* 2026. [https://doi.org/10.26434/chemrxiv.15007659/v1](https://doi.org/10.26434/chemrxiv.15007659/v1)
+**[24]** J. Mato, D. Santos-Martins, **M. A. Llanos**, S. Forli. "MolScrub: an Open-Source Tool to Generate Conformers and Protonate Drug-Like Molecules." *ChemRxiv (preprint).* 2026. [https://doi.org/10.26434/chemrxiv.15007659/v2](https://doi.org/10.26434/chemrxiv.15007659/v2)
 
 <a id="pub-23"></a>
 **[23]** I. Taneja, **M. A. Llanos**, M. L. Fernández-Quintero, J. R. Loeffler, M. Holcomb, A. B. Ward, S. Forli. "AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold." *Journal of Chemical Information and Modeling.* 2026, 66, 152–166. [https://doi.org/10.1021/acs.jcim.5c02004](https://doi.org/10.1021/acs.jcim.5c02004)
@@ -38,10 +41,10 @@ classes: wide publications-page
 **[15]** **M. A. Llanos**, N. Enrique, V. Esteban-López, S. Scioli-Montoto, D. Sánchez-Benito, M. E. Ruiz, V. Milesi, D. E. López, A. Talevi, P. Martín, L. Gavernet. "A Combined Ligand- and Structure-Based Virtual Screening To Identify Novel Na<sub>V</sub>1.2 Blockers: In Vitro Patch Clamp Validation and In Vivo Anticonvulsant Activity." *Journal of Chemical Information and Modeling.* 2023, 63, 7083–7096. [https://doi.org/10.1021/acs.jcim.3c00645](https://doi.org/10.1021/acs.jcim.3c00645)
 
 <a id="pub-14"></a>
-**[14]** S. M. Ruatta, D. N. Prada Gori, M. Fló Díaz, F. Lorenzelli, K. Perelmuter, L. N. Alberca, C. L. Bellera, A. Medeiros, G. V. López, M. Ingold, ..., **M. A. Llanos**, ..., A. Talevi, M. A. Comini. "Garbage in, garbage out: how reliable training data improved a virtual screening approach against SARS-CoV-2 MPro." *Frontiers in Pharmacology.* 2023. [https://doi.org/10.3389/fphar.2023.1193282](https://doi.org/10.3389/fphar.2023.1193282)
+**[14]** S. M. Ruatta, D. N. Prada Gori, M. Fló Díaz, F. Lorenzelli, K. Perelmuter, L. N. Alberca, C. L. Bellera, A. Medeiros, G. V. López, M. Ingold, ..., **M. A. Llanos**, ..., A. Talevi, M. A. Comini. "Garbage in, garbage out: how reliable training data improved a virtual screening approach against SARS-CoV-2 MPro." *Frontiers in Pharmacology.* 2023, 14, 1193282. [https://doi.org/10.3389/fphar.2023.1193282](https://doi.org/10.3389/fphar.2023.1193282)
 
 <a id="pub-13"></a>
-**[13]** **M. A. Llanos**, N. Enrique, M. L. Sbaraglini, F. M. Garofalo, A. Talevi, L. Gavernet, P. Martín. "Structure-Based Virtual Screening Identifies Novobiocin, Montelukast, and Cinnarizine as TRPV1 Modulators with Anticonvulsant Activity In Vivo." *Journal of Chemical Information and Modeling.* 2022. [https://doi.org/10.1021/acs.jcim.2c00312](https://doi.org/10.1021/acs.jcim.2c00312)
+**[13]** **M. A. Llanos**, N. Enrique, M. L. Sbaraglini, F. M. Garofalo, A. Talevi, L. Gavernet, P. Martín. "Structure-Based Virtual Screening Identifies Novobiocin, Montelukast, and Cinnarizine as TRPV1 Modulators with Anticonvulsant Activity In Vivo." *Journal of Chemical Information and Modeling.* 2022, 62, 3008–3022. [https://doi.org/10.1021/acs.jcim.2c00312](https://doi.org/10.1021/acs.jcim.2c00312)
 
 <a id="pub-12"></a>
 **[12]** **M. A. Llanos**, C. Ventura, P. Martín, N. Enrique, J. I. Felice, L. Gavernet, V. Milesi. "Novel Dimeric hHv1 Model and Structural Bioinformatic Analysis Reveal an ATP-Binding Site Resulting in a Channel Activating Effect." *Journal of Chemical Information and Modeling.* 2022, 62, 3200–3212. [https://doi.org/10.1021/acs.jcim.1c01396](https://doi.org/10.1021/acs.jcim.1c01396)
@@ -50,25 +53,25 @@ classes: wide publications-page
 **[11]** **M. A. Llanos**, L. N. Alberca, S. C. Vilchez Larrea, A. C. Schoijet, G. D. Alonso, C. L. Bellera, L. Gavernet, A. Talevi. "Homology Modeling and Molecular Dynamics Simulations of *Trypanosoma cruzi* Phosphodiesterase b1." *Chemistry & Biodiversity.* 2022, 19, e202100712. [https://doi.org/10.1002/cbdv.202100712](https://doi.org/10.1002/cbdv.202100712)
 
 <a id="pub-10"></a>
-**[10]** **M. A. Llanos**, L. N. Alberca, M. D. Ruiz, M. L. Sbaraglini, C. Miranda, A. Pino-Martinez, L. Fraccaroli, C. Carrillo, C. D. Alba Soto, L. Gavernet, A. Talevi. "A combined ligand and target-based virtual screening strategy to repurpose drugs as putrescine uptake inhibitors with trypanocidal activity." *Journal of Computer-Aided Molecular Design.* 2022. [https://doi.org/10.1007/s10822-022-00491-0](https://doi.org/10.1007/s10822-022-00491-0)
+**[10]** **M. A. Llanos**, L. N. Alberca, M. D. Ruiz, M. L. Sbaraglini, C. Miranda, A. Pino-Martinez, L. Fraccaroli, C. Carrillo, C. D. Alba Soto, L. Gavernet, A. Talevi. "A combined ligand and target-based virtual screening strategy to repurpose drugs as putrescine uptake inhibitors with trypanocidal activity." *Journal of Computer-Aided Molecular Design.* 2023, 37, 75–90. [https://doi.org/10.1007/s10822-022-00491-0](https://doi.org/10.1007/s10822-022-00491-0)
 
 <a id="pub-9"></a>
-**[9]** M. E. Gantner, D. N. Prada Gori, **M. A. Llanos**, A. Talevi, A. Angeli, D. Vullo, C. T. Supuran, L. Gavernet. "Identification of New Carbonic Anhydrase VII Inhibitors by Structure-Based Virtual Screening." *Journal of Chemical Information and Modeling.* 2022. [https://doi.org/10.1021/acs.jcim.2c00910](https://doi.org/10.1021/acs.jcim.2c00910)
+**[9]** M. E. Gantner, D. N. Prada Gori, **M. A. Llanos**, A. Talevi, A. Angeli, D. Vullo, C. T. Supuran, L. Gavernet. "Identification of New Carbonic Anhydrase VII Inhibitors by Structure-Based Virtual Screening." *Journal of Chemical Information and Modeling.* 2022, 62, 4760–4770. [https://doi.org/10.1021/acs.jcim.2c00910](https://doi.org/10.1021/acs.jcim.2c00910)
 
 <a id="pub-8"></a>
 **[8]** D. N. Prada Gori, L. N. Alberca, S. Rodriguez, J. I. Alice, **M. A. Llanos**, C. L. Bellera, A. Talevi. "LIDeB Tools: A Latin American resource of freely available, open-source cheminformatics apps." *Artificial Intelligence in the Life Sciences.* 2022, 2, 100049. [https://doi.org/10.1016/j.ailsci.2022.100049](https://doi.org/10.1016/j.ailsci.2022.100049)
 
 <a id="pub-7"></a>
-**[7]** D. N. Prada Gori, **M. A. Llanos**, C. L. Bellera, A. Talevi, L. N. Alberca. "iRaPCA and SOMoC: Development and Validation of Web Applications for Clustering of Small Molecules." *Journal of Chemical Information and Modeling.* 2022. [https://doi.org/10.1021/acs.jcim.2c00265](https://doi.org/10.1021/acs.jcim.2c00265)
+**[7]** D. N. Prada Gori, **M. A. Llanos**, C. L. Bellera, A. Talevi, L. N. Alberca. "iRaPCA and SOMoC: Development and Validation of Web Applications for New Approaches for the Clustering of Small Molecules." *Journal of Chemical Information and Modeling.* 2022, 62, 2987–2998. [https://doi.org/10.1021/acs.jcim.2c00265](https://doi.org/10.1021/acs.jcim.2c00265)
 
 <a id="pub-6"></a>
 **[6]** C. L. Bellera, **M. A. Llanos**, M. E. Gantner, S. Rodriguez, L. Gavernet, M. Comini, A. Talevi. "Can drug repurposing strategies be the solution to the COVID-19 crisis?" *Expert Opinion on Drug Discovery.* 2021, 16, 605–612. [https://doi.org/10.1080/17460441.2021.1863943](https://doi.org/10.1080/17460441.2021.1863943)
 
 <a id="pub-5"></a>
-**[5]** **M. A. Llanos**, M. E. Gantner, S. Rodriguez, L. N. Alberca, C. L. Bellera, A. Talevi, L. Gavernet. "Strengths and Weaknesses of Docking Simulations in the SARS-CoV-2 Era: the Main Protease (Mpro) Case Study." *Journal of Chemical Information and Modeling.* 2021. [https://doi.org/10.1021/acs.jcim.1c00404](https://doi.org/10.1021/acs.jcim.1c00404)
+**[5]** **M. A. Llanos**, M. E. Gantner, S. Rodriguez, L. N. Alberca, C. L. Bellera, A. Talevi, L. Gavernet. "Strengths and Weaknesses of Docking Simulations in the SARS-CoV-2 Era: the Main Protease (Mpro) Case Study." *Journal of Chemical Information and Modeling.* 2021, 61, 3758–3770. [https://doi.org/10.1021/acs.jcim.1c00404](https://doi.org/10.1021/acs.jcim.1c00404)
 
 <a id="pub-4"></a>
-**[4]** M. E. Gantner, **M. A. Llanos**, F. M. Garofalo, M. L. Villalba, L. Gavernet. "Computational and Synthetic Target-based Approaches to the Discovery of Novel Anticonvulsant Compounds." *Current Medicinal Chemistry.* 2021, 28. [https://doi.org/10.2174/0929867328666210506161234](https://doi.org/10.2174/0929867328666210506161234)
+**[4]** M. E. Gantner, **M. A. Llanos**, F. M. Garofalo, M. L. Villalba, L. Gavernet. "Computational and Synthetic Target-based Approaches to the Discovery of Novel Anticonvulsant Compounds." *Current Medicinal Chemistry.* 2021, 28, 6866–6894. [https://doi.org/10.2174/0929867328666210506161234](https://doi.org/10.2174/0929867328666210506161234)
 
 <a id="pub-3"></a>
 **[3]** **M. A. Llanos**, M. L. Sbaraglini, M. L. Villalba, M. D. Ruiz, C. Carrillo, C. Alba Soto, A. Talevi, A. Angeli, S. Parkkila, C. T. Supuran, L. Gavernet. "A structure-based approach towards the identification of novel antichagasic compounds: *Trypanosoma cruzi* carbonic anhydrase inhibitors." *Journal of Enzyme Inhibition and Medicinal Chemistry.* 2020, 35, 21–30. [https://doi.org/10.1080/14756366.2019.1677638](https://doi.org/10.1080/14756366.2019.1677638)
